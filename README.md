@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm Clara, a localization professional, tech nerd and aspiring software developer based in London
+- You can see some of the project I've worked on here: https://clgonzalez93.github.io/
 <!--
 **clgonzalez93/clgonzalez93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
