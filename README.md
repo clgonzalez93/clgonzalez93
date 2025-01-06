@@ -1,7 +1,7 @@
 ## Hi there, I'm Clara 👋
 
-- 🧚 I'm a translation professional with six years experience, tech nerd and aspiring software developer based in London
-- 🌱 I'm currently learning the basics of Django
+- 🧚 I'm a translation professional with 7 years experience, tech nerd and aspiring software developer based in London
+- 🌱 I'm currently working on developing projects with Django
 - 💬 In addition to programming languages, I speak Danish, Swedish, Spanish and English
 - ✨ You can see some of the project I've worked on here: https://clgonzalez93.github.io/
   
@@ -16,6 +16,7 @@
 
 ### Frameworks:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 ### IDEs:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
